@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayLevel.js">
+    <Files>
+      <File FileName="Assets\Scripts\Animation.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayLevel.js" Line="199" Column="90" />
+      <File FileName="Assets\Scripts\PlayMenu.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UnlockLevel.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoadorExit.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyMovement.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
